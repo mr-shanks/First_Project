@@ -9,7 +9,6 @@ const clearStoredData = document.getElementById('clearStoredData');
 
 
 
-
 changeDomStyle.addEventListener('click', () => {
 
     section.classList.toggle('sectionStyleChange');
