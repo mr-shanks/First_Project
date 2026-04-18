@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cirumfrenceTitle{
+    font-weight: 20px;
+    color: #a52a2a;
+    text-transform: capitalize;
+    padding: 30px;
+}
+.radiusInputLabel{
+    margin: 30px;
+    font-size: 25px;
+    color: #0000ff;
+    text-transform: capitalize;
+}
+.inputField{
+    height: 10px;
+    width: 150px;
+    border-radius: 0px;
+    padding: 5px;
+    outline: none;
+}
+.submitButton{
+    height: 30px;
+    width: 150px;
+    border-radius: 0px;
+    margin: 30px;
+    text-transform: capitalize;
+
+}
+.answerText{
+    margin: 30px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #0000ff;
+}
